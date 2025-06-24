@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\UdemyAssignment\\S13_Environments\\S13_Environments\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.S13_Environments.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.S13_Environments.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.S13_Environments.props",
+      "PackagePath": "build\\S13_Environments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.S13_Environments.props",
+      "PackagePath": "buildMultiTargeting\\S13_Environments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.S13_Environments.props",
+      "PackagePath": "buildTransitive\\S13_Environments.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
