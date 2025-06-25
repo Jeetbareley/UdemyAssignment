@@ -90,7 +90,6 @@ F:\UdemyAssignment\S13_Environments\S13_Environments\obj\Debug\net8.0\staticweba
 F:\UdemyAssignment\S13_Environments\S13_Environments\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.S13_Environments.props
 F:\UdemyAssignment\S13_Environments\S13_Environments\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.S13_Environments.props
 F:\UdemyAssignment\S13_Environments\S13_Environments\obj\Debug\net8.0\staticwebassets.pack.json
-F:\UdemyAssignment\S13_Environments\S13_Environments\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 F:\UdemyAssignment\S13_Environments\S13_Environments\obj\Debug\net8.0\S13_Environments.dll
 F:\UdemyAssignment\S13_Environments\S13_Environments\obj\Debug\net8.0\refint\S13_Environments.dll
 F:\UdemyAssignment\S13_Environments\S13_Environments\obj\Debug\net8.0\S13_Environments.pdb
